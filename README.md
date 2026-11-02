@@ -20,7 +20,7 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 
-### Server.py :
+### Client.py :
 ```
 import socket 
 s=socket.socket() 
